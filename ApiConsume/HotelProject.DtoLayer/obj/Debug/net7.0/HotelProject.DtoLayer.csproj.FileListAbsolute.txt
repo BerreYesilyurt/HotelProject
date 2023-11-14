@@ -1,0 +1,17 @@
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net7.0\HotelProject.DtoLayer.deps.json
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net7.0\HotelProject.DtoLayer.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net7.0\HotelProject.DtoLayer.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net7.0\HotelProject.DtoLayer.pdb
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net7.0\HotelProject.EntityLayer.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\bin\Debug\net7.0\HotelProject.EntityLayer.pdb
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.csproj.CopyComplete
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\refint\HotelProject.DtoLayer.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.pdb
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\HotelProject.DtoLayer.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.DtoLayer\obj\Debug\net7.0\ref\HotelProject.DtoLayer.dll

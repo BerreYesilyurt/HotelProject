@@ -1,0 +1,14 @@
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net7.0\HotelProject.EntityLayer.deps.json
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net7.0\HotelProject.EntityLayer.runtimeconfig.json
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net7.0\HotelProject.EntityLayer.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\bin\Debug\net7.0\HotelProject.EntityLayer.pdb
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\HotelProject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\HotelProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\HotelProject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\HotelProject.EntityLayer.AssemblyInfo.cs
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\HotelProject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\HotelProject.EntityLayer.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\refint\HotelProject.EntityLayer.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\HotelProject.EntityLayer.pdb
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\HotelProject.EntityLayer.genruntimeconfig.cache
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.EntityLayer\obj\Debug\net7.0\ref\HotelProject.EntityLayer.dll
