@@ -81,3 +81,4 @@ C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\Hote
 C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.WebApi\obj\Debug\net7.0\HotelProject.WebApi.pdb
 C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.WebApi\obj\Debug\net7.0\HotelProject.WebApi.genruntimeconfig.cache
 C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.WebApi\obj\Debug\net7.0\ref\HotelProject.WebApi.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\ApiConsume\HotelProject.WebApi\obj\Debug\net7.0\HotelProject.WebApi.MvcApplicationPartsAssemblyInfo.cs

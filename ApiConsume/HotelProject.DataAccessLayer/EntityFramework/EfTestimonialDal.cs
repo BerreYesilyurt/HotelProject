@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace HotelProject.DataAccessLayer.EntityFramework
 {
-    public class EfTestimonialDal : GenericRepository<Testimonial>, ITestimonialDal>
+    public class EfTestimonialDal : GenericRepository<Testimonial>, ITestimonialDal
     {
         public EfTestimonialDal(Context context) : base(context)
         {
