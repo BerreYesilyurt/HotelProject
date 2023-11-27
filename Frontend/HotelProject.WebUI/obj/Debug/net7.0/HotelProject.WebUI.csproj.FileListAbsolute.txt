@@ -251,3 +251,7 @@ C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\Frontend\HotelP
 C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\Frontend\HotelProject.WebUI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\Frontend\HotelProject.WebUI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\Frontend\HotelProject.WebUI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\Frontend\HotelProject.WebUI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\Frontend\HotelProject.WebUI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\Frontend\HotelProject.WebUI\bin\Debug\net7.0\HotelProject.EntityLayer.dll
+C:\Users\Monster_Pc\source\repos\25 Uygulamalı Proje\ApiProject\Frontend\HotelProject.WebUI\bin\Debug\net7.0\HotelProject.EntityLayer.pdb

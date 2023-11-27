@@ -25,6 +25,9 @@ builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
 builder.Services.AddScoped<ITestimonialDal, EfTestimonialDal>();
 builder.Services.AddScoped<ITestimonialService, TestimonialManager>();
 
+builder.Services.AddAutoMapper(typeof(Program));
+//builder.Services.AddScoped()
+
 builder.Services.AddCors(opt =>
 {
     opt.AddPolicy("OtelApiCors", opts =>
@@ -32,6 +35,8 @@ builder.Services.AddCors(opt =>
         opts.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
     });
 });
+
+
 
 
 // Add services to the container.

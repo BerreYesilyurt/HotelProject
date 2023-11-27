@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TNCyK0gogKVr687a5zDqRSxqMnnxmD8MJoZcUcqBikr7Uc3OfX5FDZbZe4ahZz3vJDYOYvDlDFP4qlmOp0P/LA==",
+  "dgSpecHash": "pyDGVmljjYUgH3grmBFXcm+WKN6aLC2rEU2kCCzUIVYAlyrgJydle0PAZaL49gS4hgeOMVd3fB1RQhVKsVNW8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Monster_Pc\\source\\repos\\25 Uygulamalı Proje\\ApiProject\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Monster_Pc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Monster_Pc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
@@ -71,7 +73,7 @@
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.11\\microsoft.codeanalysis.razor.6.0.11.nupkg.sha512",
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.4.0\\microsoft.codeanalysis.scripting.common.4.4.0.nupkg.sha512",
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.4.0\\microsoft.codeanalysis.workspaces.common.4.4.0.nupkg.sha512",
-    "C:\\Users\\Monster_Pc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Monster_Pc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\Monster_Pc\\.nuget\\packages\\microsoft.diasymreader\\1.4.0\\microsoft.diasymreader.1.4.0.nupkg.sha512",
